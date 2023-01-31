@@ -39,7 +39,7 @@ python validate.py
 ### Train models
 1. Clone this github repo
 ```
-git clone https://github.com/williamcfrancis/Super-Resolution-with-Improved-ESRGAN.git
+git clone https://github.com/rashmip98/Image-Super-Resolution-Using-Modified-ESRGAN.git
 cd Super-Resolution-with-Improved-ESRGAN
 ```
 2. Run dataset.py to prepare the datasets.
