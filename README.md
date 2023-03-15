@@ -20,7 +20,7 @@ Download the dataset: [DIV2K Dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 ### Test models
 1. Clone this github repo.
 ```
-git clone https://github.com/williamcfrancis/Super-Resolution-with-Improved-ESRGAN.git
+git clone https://github.com/rashmip98/Image-Super-Resolution-Using-Modified-ESRGAN.git
 cd Super-Resolution-with-Improved-ESRGAN
 ```
 2. Place your own **low-resolution images** in `./LR` folder.
